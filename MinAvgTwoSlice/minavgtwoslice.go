@@ -1,3 +1,9 @@
+/**
+*
+* MinAvgTwoSlice. Link: https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
+*
+*/
+
 package solution
 
 func Solution(A []int) int {
