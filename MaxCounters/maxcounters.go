@@ -1,3 +1,9 @@
+/**
+*
+* MaxCounters. Link: hhttps://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
+*
+*/
+
 package solution
 
 func Solution(N int, A []int) []int {

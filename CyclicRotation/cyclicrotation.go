@@ -1,3 +1,9 @@
+/**
+*
+* CyclicRotation. Link: https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+*
+*/
+
 package solution
 
 func Solution(A []int, K int) []int {
